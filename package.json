@@ -1,0 +1,15 @@
+{
+  "name": "starryrose",
+  "version": "0.0.1b",
+  "description": "Um bot brasileiro feito em JavaScript usando o pacote ForgeScript para a rede social Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tryforge/forgescript": "^2.2.0"
+  }
+}

@@ -2,7 +2,7 @@
 Um bot brasileiro feito em JavaScript, usando o pacote ForgeScript para a rede social Discord. 
 
 ## Objetivos e Ideias para o Projeto.
-- [ ] Ser um bot brasileiro.
+- Ser um bot brasileiro.
     - Tendo a linguagem nos comandos em português do Brasil.
     - Documentações em português do Brasil.
 - [ ] Sistema de Moderação para servidores.
